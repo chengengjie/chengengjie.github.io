@@ -1,0 +1,109 @@
+# jemdoc: nofooter, title{Gengjie Chen @ CUHK-CSE}
+
+{{<img src="./img/gengjie.jpg" width=200px align="right"/>}}
+
+= Gengjie Chen
+
+*Ph.D. Candidate*
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk The Chinese University of Hong Kong]\n
+
+*Office*: Room 913, Ho Sin Hang Engineering Building\n
+*Email*: gjchen AT cse.cuhk.edu.hk\n
+
+~~~
+{}{raw}
+<a href="http://dblp.uni-trier.de/pers/hd/c/Chen:Gengjie"><img src="./img/logo-dblp.png"  height="30px"></a>
+<a href="https://scholar.google.com/citations?user=blVJ7usAAAAJ"><img src="./img/logo-scholar.png"  height="30px"></a>
+<a href="https://github.com/chengengjie"><img src="./img/logo-github.png"  height="30px"></a>
+<a href="https://www.linkedin.com/in/gengjie-chen-4b79b2a9/"><img src="./img/logo-linkedin.png"  height="30px"></a>
+~~~
+
+== Biography
+
+I am currently a third-year Ph.D. student in the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
+
+My research interest includes combinatorial optimization and electronic design automation.
+
+
+== Honors
+
+- William J. McCalla ICCAD Best Paper Award in 2017
+- Hong Kong Ph.D. Fellowship since 2015
+- SYSU Excellent Graduate in 2015
+- National Scholarship in 2014
+- Globalink Research Internship Award in 2014
+- 1st-Class Prize of David Sin Excellent Undergraduate Overseas Study Scholarship in 2014
+
+=== Contest Awards
+
+- 3rd Place at ISPD 2017 Contest on "Clock-Aware FPGA Placement"
+- 1st Place at ICCAD 2016 Contest on "Non-Exact Projective NPNP Boolean Matching"
+- 2nd Place at ISPD 2016 Contest on "Routability-Driven FPGA Placement"
+- 1st Place at ICCAD 2015 Contest on "3D Interlayer Cooling Optimized Network"
+- 2nd-Class Prize in National Undergraduate Electronic Design Contest in 2013
+
+
+== Publications
+
+=== Journal Paper
+- \[J1\] *Gengjie Chen*, Chak-Wa Pui, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F. Y. Young and Bei Yu, 
+"RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs", 
+accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
+=== Conference Papers
+
+- \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen*, Evangeline F.Y. Young, 
+A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence, 
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018.
+
+- \[C5\] *Gengjie Chen*, Peishan Tu, Evangeline F.Y. Young.
+"SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm",
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
+*{{<font color="red">(William J. McCalla Best Paper Award)</font>}}*
+
+- \[C4\] Chak-Wa Pui, *Gengjie Chen*, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
+"Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction", 
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
+
+- \[C3\] *Gengjie Chen*, Jian Kuang, Zhiliang Zeng, Hang Zhang, Evangeline F.Y. Young, and Bei Yu, 
+[https://doi.org/10.1145/3061639.3062285 "Minimizing Thermal Gradient and Pumping Power in 3D IC Liquid Cooling Network Design"], 
+ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 18–22, 2017.
+
+- \[C2\] Chak-Wa Pui, *Gengjie Chen*, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F.Y. Young, Bei Yu, 
+[http://doi.org/10.1145/2966986.2980084 "RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs"], 
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov. 7-10, 2016.
+
+- \[C1\] *Gengjie Chen*, Pierre-Luc St-Charles, Wassim Bouachir, Guillaume-Alexandre Bilodeau, and Robert Bergevin, 
+[https://doi.org/10.1109/ICIP.2015.7351162 "Reproducible Evaluation of Pan-Tilt-Zoom Tracking"], 
+IEEE International Conference on Image Processing (*ICIP*), Quebec City, QC, Canada, Sep. 27-30, 2015.
+
+
+== Experiences
+
+Software Engineer Intern | [https://www.cadence.com/ Cadence]
+- On register clustering for high-performance multi-tap clock
+- May - Sep. 2017, Austin, TX, USA
+
+Software Engineer Intern | [https://www.synopsys.com/ Synopsys]
+- On buffer calibration for clock tree synthesis
+- June - Sep. 2016, Mountain View, CA, USA
+
+Research Intern | [http://www.polymtl.ca/ École Polytechnique de Montréal]
+- On reproducible evaluation of pan-tilt-zoom tracking
+- Supervised by [http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=295 Guillaume-Alexandre Bilodeau]
+- Funded by Canada's MITACS and China Scholarship Council
+- June - Aug. 2014, Montreal, QC, Canada
+
+Exchange Student | [http://www.nsysu.edu.tw/bin/home.php?Lang=en Nation Sun Yat-sen University]
+- Supported by 1st-Class Prize of David Sin Excellent Undergraduate Overseas Study Scholarship
+- Feb. - June 2014, Kaohsiung, Taiwan
+
+
+== Teaching
+
+- CSCI2510 Computer Organization (2017 Fall & 2015 Fall)
+- CENG2010 Digital Logic Design Laboratory (2017 Spring)
+- CSCI2100 Data Structures (2016 Fall)
+- CSCI2520 Data Structures and Applications (2016 Spring)
