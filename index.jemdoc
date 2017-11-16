@@ -29,7 +29,7 @@ My research interest includes combinatorial optimization and electronic design a
 
 == Honors
 
-#- [https://ieee-ceda.org/awards/william-j-mccalla-iccad-best-paper-award William J. McCalla ICCAD Best Paper Award] in 2017
+- [https://ieee-ceda.org/awards/william-j-mccalla-iccad-best-paper-award William J. McCalla ICCAD Best Paper Award] in 2017
 - [https://cerg1.ugc.edu.hk/hkpfs/index.html Hong Kong Ph.D. Fellowship] since 2015
 - SYSU Excellent Graduate in 2015
 - National Scholarship in 2014
@@ -61,7 +61,7 @@ IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Is
 - \[C5\] *Gengjie Chen*, Peishan Tu, Evangeline F.Y. Young.
 "SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm",
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
-#*{{<font color="red">(William J. McCalla Best Paper Award)</font>}}*
+*{{<font color="red">(William J. McCalla Best Paper Award)</font>}}*
 
 - \[C4\] Chak-Wa Pui, *Gengjie Chen*, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
 "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction", 
