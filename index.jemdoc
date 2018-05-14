@@ -38,6 +38,7 @@ My research interest includes combinatorial optimization and electronic design a
 
 === Contest Awards
 
+- 2rd Place at [http://www.ispd.cc/contests/18/ ISPD 2018 Contest] on "Initial Detailed Routing"
 - 3rd Place at [http://www.ispd.cc/contests/17/ ISPD 2017 Contest] on "Clock-Aware FPGA Placement"
 - 1st Place at [http://cad-contest-2016.el.cycu.edu.tw/CAD-contest-at-ICCAD2016/ ICCAD 2016 Contest] on "Non-Exact Projective NPNP Boolean Matching"
 - 2nd Place at [http://www.ispd.cc/contests/16/ ISPD 2016 Contest] on "Routability-Driven FPGA Placement"
@@ -53,6 +54,10 @@ My research interest includes combinatorial optimization and electronic design a
 accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 === Conference Papers
+
+- \[C7\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F.Y. Young, Bei Yu, 
+Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits, 
+ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24–28, 2018.
 
 - \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen*, Evangeline F.Y. Young, 
 A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence, 
