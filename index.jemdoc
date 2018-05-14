@@ -60,7 +60,7 @@ Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits,
 ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24–28, 2018.
 
 - \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen*, Evangeline F.Y. Young, 
-A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence, 
+[https://doi.org/10.1109/ASPDAC.2018.8297387 A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence], 
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018.
 
 - \[C5\] *Gengjie Chen*, Peishan Tu, Evangeline F.Y. Young.
@@ -108,6 +108,7 @@ Exchange Student | [http://www.nsysu.edu.tw/bin/home.php?Lang=en Nation Sun Yat-
 
 == Teaching
 
+- CENG5270 EDA for Physical Design of Digital Systems (2018 Spring)
 - CSCI2510 Computer Organization (2017 Fall & 2015 Fall)
 - CENG2010 Digital Logic Design Laboratory (2017 Spring)
 - CSCI2100 Data Structures (2016 Fall)
