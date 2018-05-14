@@ -24,7 +24,7 @@ Email: gjchen AT cse.cuhk.edu.hk\n
 
 I am currently a third-year Ph.D. student in the [https://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [https://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
 
-My research interest includes combinatorial optimization and electronic design automation.
+My research interests include combinatorial optimization, numerical optimization, and electronic design automation.
 
 
 == Honors
@@ -56,17 +56,17 @@ accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits an
 === Conference Papers
 
 - \[C7\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F.Y. Young, Bei Yu, 
-Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits, 
+"Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits", 
 ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24–28, 2018.
 
 - \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen*, Evangeline F.Y. Young, 
-[https://doi.org/10.1109/ASPDAC.2018.8297387 A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence], 
+[https://doi.org/10.1109/ASPDAC.2018.8297387 "A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence]", 
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018.
 
 - \[C5\] *Gengjie Chen*, Peishan Tu, Evangeline F.Y. Young.
 [https://doi.org/10.1109/ICCAD.2017.8203828 "SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm"],
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
-*{{<font color="red">(Best Paper Award)</font>}}*
+(*{{<font color="red">Best Paper Award</font>}}*)
 
 - \[C4\] Chak-Wa Pui, *Gengjie Chen*, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
 [https://doi.org/10.1109/ICCAD.2017.8203880 "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], 
@@ -77,7 +77,7 @@ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA
 ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 18–22, 2017.
 
 - \[C2\] Chak-Wa Pui, *Gengjie Chen*, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F.Y. Young, Bei Yu, 
-[http://doi.org/10.1145/2966986.2980084 "RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs"], 
+[https://doi.org/10.1145/2966986.2980084 "RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs"], 
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov. 7-10, 2016.
 
 - \[C1\] *Gengjie Chen*, Pierre-Luc St-Charles, Wassim Bouachir, Guillaume-Alexandre Bilodeau, and Robert Bergevin, 
@@ -95,7 +95,7 @@ Software Engineer Intern | [https://www.synopsys.com/ Synopsys]
 - On buffer calibration for clock tree synthesis
 - June - Sep. 2016, Mountain View, CA, USA
 
-Research Intern | [https://www.polymtl.ca/en École Polytechnique de Montréal]
+Research Intern | [https://www.polymtl.ca/en Polytechnique Montréal]
 - On reproducible evaluation of pan-tilt-zoom tracking
 - Supervised by [https://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=295 Guillaume-Alexandre Bilodeau]
 - Funded by [https://www.mitacs.ca/ Canada's MITACS] and [https://en.csc.edu.cn/ China Scholarship Council]
