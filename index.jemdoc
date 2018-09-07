@@ -22,7 +22,7 @@ Email: gjchen AT cse.cuhk.edu.hk\n
 
 == Biography
 
-I am currently a third-year Ph.D. student in the [https://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [https://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
+I am currently a fourth-year Ph.D. student in the [https://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [https://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
 
 My research interests include combinatorial optimization, numerical optimization, and design automation.
 
@@ -54,6 +54,10 @@ My research interests include combinatorial optimization, numerical optimization
 accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 === Conference Papers
+
+- \[C8\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li, Jingsong Chen, Bentian Jiang, Evangeline F.Y. Young,
+"Dr. CU: DetailedRouting by Sparse Grid Graph and Minimum-Area-Captured Path Search",
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan 21-24, 2019.
 
 - \[C7\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F.Y. Young, Bei Yu, 
 [https://doi.org/10.1145/3195970.3196107 "Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits"], 
