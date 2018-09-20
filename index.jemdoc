@@ -51,7 +51,8 @@ My research interests include combinatorial optimization, numerical optimization
 === Journal Paper
 - \[J1\] *Gengjie Chen*, Chak-Wa Pui, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/TCAD.2017.2778058 "RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs"], 
-accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 10, pp. 2022–2035, 2018.
+\[[papers/J1-TCAD18-RippleFPGA.pdf Paper]\]
 
 === Conference Papers
 
@@ -113,7 +114,7 @@ Software Engineer Intern | [https://www.cadence.com/ Cadence]
 - May - Sep 2017, Austin, TX, USA
 
 Software Engineer Intern | [https://www.synopsys.com/ Synopsys]
-- On buffer calibration for clock tree synthesis
+- On buffer characterization for clock tree synthesis
 - Mentored by [https://www.linkedin.com/in/mike-bezman-b8b695/ Mike Bezman]
 - June - Sep 2016, Mountain View, CA, USA
 
@@ -122,10 +123,6 @@ Research Intern | [https://www.umontreal.ca/en/ Université de Montréal] ([http
 - Supervised by [https://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=295 Guillaume-Alexandre Bilodeau]
 - Funded by [https://www.mitacs.ca/ Canada's MITACS] and [https://en.csc.edu.cn/ China Scholarship Council]
 - June - Aug 2014, Montreal, QC, Canada
-
-Exchange Student | [http://www.nsysu.edu.tw/bin/home.php?Lang=en Nation Sun Yat-sen University]
-- Supported by SYSU David Sin Excellent Undergraduate Overseas Study Scholarship
-- Feb - June 2014, Kaohsiung, Taiwan
 
 
 == Teaching
