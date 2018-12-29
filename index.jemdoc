@@ -50,6 +50,11 @@ My research interests include combinatorial optimization, numerical optimization
 == Publications
 
 === Journal Paper
+
+- \[J2\] *Gengjie Chen* and Evangeline F. Y. Young, 
+"RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs",
+accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
 - \[J1\] *Gengjie Chen*, Chak-Wa Pui, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/TCAD.2017.2778058 "RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs"], 
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 10, pp. 2022–2035, 2018.
