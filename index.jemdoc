@@ -22,7 +22,7 @@ Email: gjchen AT cse.cuhk.edu.hk\n
 
 == Biography
 
-I am currently a fourth-year Ph.D. student in the [https://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [https://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
+I am currently a fourth-year Ph.D. student in the [https://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] of [https://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], supervised by Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F. Y. Young]. Before that, I obtained my bachelor degree in the Department of Electronic and Communication Engineering from [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University (SYSU)] in 2015.
 
 My research interests include combinatorial optimization, numerical optimization, and design automation.
 
@@ -52,7 +52,7 @@ My research interests include combinatorial optimization, numerical optimization
 === Journal Paper
 
 - \[J2\] *Gengjie Chen* and Evangeline F. Y. Young, 
-"SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm",
+[https://doi.org/10.1109/TCAD.2019.2894653 "SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm"],
 accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 - \[J1\] *Gengjie Chen*, Chak-Wa Pui, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F. Y. Young and Bei Yu, 
@@ -62,30 +62,30 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 
 === Conference Papers
 
-- \[C9\] *Gengjie Chen*, Evangeline F.Y. Young,
+- \[C9\] *Gengjie Chen* and Evangeline F. Y. Young,
 "Dim Sum: Light Clock Tree by Small Diameter Sum",
 IEEE/ACM Design, Automation and Test in Eurpoe (*DATE*), Florence, Italy, Mar 25-29, 2019.
 \[[papers/C9-DATE19-DimSum.pdf Paper]\]
 
-- \[C8\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li, Jingsong Chen, Bentian Jiang, Evangeline F.Y. Young,
+- \[C8\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li, Jingsong Chen, Bentian Jiang and Evangeline F. Y. Young,
 [https://doi.org/10.1145/3287624.3287678 "Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search"],
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan 21-24, 2019.
 \[[papers/C8-ASPDAC19-DrCU.pdf Paper]\]
 \[[papers/C8-ASPDAC19-DrCU-slides.pdf Slides]\]
 
-- \[C7\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F.Y. Young, Bei Yu, 
+- \[C7\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1145/3195970.3196107 "Routability-Driven and Fence-Aware Legalization for Mixed-Cell-Height Circuits"], 
 ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24–28, 2018.
 \[[papers/C7-DAC18-RippleLG.pdf Paper]\]
 \[[papers/C7-DAC18-RippleLG-slides.pdf Slides]\]
 \[[papers/C7-DAC18-RippleLG-poster.pdf Poster]\]
 
-- \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen*, Evangeline F.Y. Young, 
+- \[C6\] Chak-Wa Pui, Peishan Tu, Haocheng Li, *Gengjie Chen* and Evangeline F. Y. Young, 
 [https://doi.org/10.1109/ASPDAC.2018.8297387 "A Two-Step Search Engine for Large Scale Boolean Matching Under NP3 Equivalence"], 
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan 22-25, 2018.
 \[[papers/C6-ASPDAC18-NP3.pdf Paper]\]
 
-- \[C5\] *Gengjie Chen*, Peishan Tu, Evangeline F.Y. Young,
+- \[C5\] *Gengjie Chen*, Peishan Tu and Evangeline F. Y. Young,
 [https://doi.org/10.1109/ICCAD.2017.8203828 "SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm"],
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov 13-16, 2017.
 (*{{<font color="red">Best Paper Award</font>}}*)
@@ -93,24 +93,24 @@ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA
 \[[papers/C5-ICCAD17-SALT-slides.pdf Slides]\]
 \[[https://github.com/chengengjie/salt Code]\]
 
-- \[C4\] Chak-Wa Pui, *Gengjie Chen*, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
+- \[C4\] Chak-Wa Pui, *Gengjie Chen*, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/ICCAD.2017.8203880 "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], 
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov 13-16, 2017.
 \[[papers/C4-ICCAD17-RippleFPGA2.pdf Paper]\]
 
-- \[C3\] *Gengjie Chen*, Jian Kuang, Zhiliang Zeng, Hang Zhang, Evangeline F.Y. Young, and Bei Yu, 
+- \[C3\] *Gengjie Chen*, Jian Kuang, Zhiliang Zeng, Hang Zhang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1145/3061639.3062285 "Minimizing Thermal Gradient and Pumping Power in 3D IC Liquid Cooling Network Design"], 
 ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 18–22, 2017.
 \[[papers/C3-DAC17-3DCooling.pdf Paper]\]
 \[[papers/C3-DAC17-3DCooling-slides.pdf Slides]\]
 \[[papers/C3-DAC17-3DCooling-poster.pdf Poster]\]
 
-- \[C2\] Chak-Wa Pui, *Gengjie Chen*, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F.Y. Young, Bei Yu, 
+- \[C2\] Chak-Wa Pui, *Gengjie Chen*, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1145/2966986.2980084 "RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs"], 
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov 7-10, 2016.
 \[[papers/C2-ICCAD16-RippleFPGA.pdf Paper]\]
 
-- \[C1\] *Gengjie Chen*, Pierre-Luc St-Charles, Wassim Bouachir, Guillaume-Alexandre Bilodeau, and Robert Bergevin, 
+- \[C1\] *Gengjie Chen*, Pierre-Luc St-Charles, Wassim Bouachir, Guillaume-Alexandre Bilodeau and Robert Bergevin, 
 [https://doi.org/10.1109/ICIP.2015.7351162 "Reproducible Evaluation of Pan-Tilt-Zoom Tracking"], 
 IEEE International Conference on Image Processing (*ICIP*), Quebec City, QC, Canada, Sep 27-30, 2015.
 \[[papers/C1-ICIP15-VPTZ.pdf Paper]\]
