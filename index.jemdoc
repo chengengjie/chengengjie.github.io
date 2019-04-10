@@ -51,14 +51,20 @@ My research interests include combinatorial optimization, numerical optimization
 
 === Journal Papers
 
+- \[J3\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li and Evangeline F. Y. Young,
+"Dr. CU: Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search",
+submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
 - \[J2\] *Gengjie Chen* and Evangeline F. Y. Young, 
 [https://doi.org/10.1109/TCAD.2019.2894653 "SALT: Provably Good Routing Topology by a Novel Steiner Shallow-Light Tree Algorithm"],
 accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+\[[https://github.com/chengengjie/salt Code]\]
 
 - \[J1\] *Gengjie Chen*, Chak-Wa Pui, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/TCAD.2017.2778058 "RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs"], 
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 10, pp. 2022–2035, 2018.
 \[[papers/J1-TCAD18-RippleFPGA.pdf Paper]\]
+\[[https://github.com/jordanpui/ripplefpga Code]\]
 
 === Conference Papers
 
@@ -74,6 +80,7 @@ ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, USA, June 2–6, 2
 "Dim Sum: Light Clock Tree by Small Diameter Sum",
 IEEE/ACM Design, Automation and Test in Europe (*DATE*), Florence, Italy, Mar 25-29, 2019.
 \[[papers/C9-DATE19-DimSum.pdf Paper]\]
+\[[papers/C9-DATE19-DimSum-slides.pdf Slides]\]
 
 - \[C8\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li, Jingsong Chen, Bentian Jiang and Evangeline F. Y. Young,
 [https://doi.org/10.1145/3287624.3287678 "Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search"],
@@ -105,6 +112,7 @@ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA
 [https://doi.org/10.1109/ICCAD.2017.8203880 "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], 
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov 13-16, 2017.
 \[[papers/C4-ICCAD17-RippleFPGA2.pdf Paper]\]
+\[[https://github.com/jordanpui/ripplefpga Code]\]
 
 - \[C3\] *Gengjie Chen*, Jian Kuang, Zhiliang Zeng, Hang Zhang, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1145/3061639.3062285 "Minimizing Thermal Gradient and Pumping Power in 3D IC Liquid Cooling Network Design"], 
@@ -117,6 +125,7 @@ ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 18–22, 20
 [https://doi.org/10.1145/2966986.2980084 "RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs"], 
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov 7-10, 2016.
 \[[papers/C2-ICCAD16-RippleFPGA.pdf Paper]\]
+\[[https://github.com/jordanpui/ripplefpga Code]\]
 
 - \[C1\] *Gengjie Chen*, Pierre-Luc St-Charles, Wassim Bouachir, Guillaume-Alexandre Bilodeau and Robert Bergevin, 
 [https://doi.org/10.1109/ICIP.2015.7351162 "Reproducible Evaluation of Pan-Tilt-Zoom Tracking"], 
