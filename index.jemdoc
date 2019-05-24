@@ -69,11 +69,11 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 === Conference Papers
 
 - \[C11\] Jingsong Chen, Jinwei Liu, *Gengjie Chen*, Dan Zheng and Evangeline F. Y. Young,
-"MARCH: Maze Routing Under a Concurrent and Hierarchical Scheme for Buses",
+[https://doi.org/10.1145/3316781.3317860 "MARCH: Maze Routing Under a Concurrent and Hierarchical Scheme for Buses"],
 ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, USA, June 2–6, 2019.
 
 - \[C10\] Bentian Jiang, Xiaopeng Zhang, Ran Chen, *Gengjie Chen*, Peishan Tu, Wei Li, Evangeline F. Y. Young and Bei Yu,
-"FIT: Fill Insertion Considering Timing",
+[https://doi.org/10.1145/3316781.3317826 "FIT: Fill Insertion Considering Timing"],
 ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, USA, June 2–6, 2019.
 
 - \[C9\] *Gengjie Chen* and Evangeline F. Y. Young,
