@@ -30,8 +30,8 @@ My research interests include combinatorial optimization, numerical optimization
 == Honors
 
 - First Place at [https://src.acm.org/ ACM Student Research Competition] Grand Finals in 2019 \[[https://www.acm.org/media-center/2019/may/src-2019-grand-finals ACM News]\]
-- First Place at [http://www.sigda.org/src ACM SIGDA Student Research Competition] in 2018 \[[http://src.acm.org/winners/2019 ACM News]\] \[[http://www.cse.cuhk.edu.hk/en/achievement/student/1233-mr-gengjie-chen-won-the-first-place-gold-medal-at-the-association-for-computing-machinery-acm-special-interest-group-on-design-automation-sigda-student-research-competition CU-CSE News]\]
-- [http://ieee-ceda.org/awards/william-j-mccalla-iccad-best-paper-award ICCAD Best Paper Award] in 2017 (2 out of 399 submissions) \[[http://www.cse.cuhk.edu.hk/en/achievement/professor-and-research-staff/1157-mr-gengjie-chen-ms-peishan-tu-and-prof-evangeline-f-y-young-received-iccad-best-paper-award CU-CSE News]\]
+- First Place at [http://www.sigda.org/src ACM SIGDA Student Research Competition] in 2018 \[[http://src.acm.org/winners/2019 ACM News]\] \[[http://www.cse.cuhk.edu.hk/en/achievement/student/1233-mr-gengjie-chen-won-the-first-place-gold-medal-at-the-association-for-computing-machinery-acm-special-interest-group-on-design-automation-sigda-student-research-competition CUHK-CSE News]\]
+- [http://ieee-ceda.org/awards/william-j-mccalla-iccad-best-paper-award ICCAD Best Paper Award] in 2017 (2 out of 399 submissions) \[[http://www.cse.cuhk.edu.hk/en/achievement/professor-and-research-staff/1157-mr-gengjie-chen-ms-peishan-tu-and-prof-evangeline-f-y-young-received-iccad-best-paper-award CUHK-CSE News]\]
 - [https://cerg1.ugc.edu.hk/hkpfs/index.html Hong Kong Ph.D. Fellowship] since 2015
 - SYSU Excellent Graduate in 2015
 - National Scholarship in 2014
@@ -67,6 +67,10 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 \[[papers/J1-TCAD18-RippleFPGA.pdf Paper]\]
 
 === Conference Papers
+
+- \[C12\] Haocheng Li, *Gengjie Chen*, Bentian Jiang, Jingsong Chen and Evangeline F. Y. Young,
+"Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction",
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov 4-7, 2019.
 
 - \[C11\] Jingsong Chen, Jinwei Liu, *Gengjie Chen*, Dan Zheng and Evangeline F. Y. Young,
 [https://doi.org/10.1145/3316781.3317860 "MARCH: Maze Routing Under a Concurrent and Hierarchical Scheme for Buses"],
@@ -138,7 +142,7 @@ IEEE International Conference on Image Processing (*ICIP*), Quebec City, QC, Can
 
 == Tools
 
-- [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C8\]
+- [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C8\]\[C12\]
 - [https://github.com/chengengjie/salt SALT] \[J2\]\[C5\]
 - [https://github.com/cuhk-eda/ripple-fpga RippleFPGA] \[J1\]\[C4\]\[C2\]
 - [https://bitbucket.org/pierre_luc_st_charles/virtualptz_standalone VirtualPTZ] \[C1\]
