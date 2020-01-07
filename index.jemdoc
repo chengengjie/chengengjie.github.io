@@ -70,7 +70,7 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 === Conference Papers
 
 - \[C12\] Haocheng Li, *Gengjie Chen*, Bentian Jiang, Jingsong Chen and Evangeline F. Y. Young,
-"Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction",
+[https://doi.org/10.1109/ICCAD45719.2019.8942074 "Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction"],
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov 4-7, 2019.
 
 - \[C11\] Jingsong Chen, Jinwei Liu, *Gengjie Chen*, Dan Zheng and Evangeline F. Y. Young,
@@ -157,7 +157,7 @@ Ph.D. Thesis, 2019.
 
 == Tools
 
-- [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C8\]\[C12\]
+- [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C8\]\[C12\] (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
 - [https://github.com/chengengjie/salt SALT] \[J2\]\[C5\]
 - [https://github.com/cuhk-eda/ripple-fpga RippleFPGA] \[J1\]\[C4\]\[C2\]
 - [https://bitbucket.org/pierre_luc_st_charles/virtualptz_standalone VirtualPTZ] \[C1\]
