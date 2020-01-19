@@ -72,6 +72,8 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 - \[C12\] Haocheng Li, *Gengjie Chen*, Bentian Jiang, Jingsong Chen and Evangeline F. Y. Young,
 [https://doi.org/10.1109/ICCAD45719.2019.8942074 "Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction"],
 IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov 4-7, 2019.
+\[[papers/C12-ICCAD19-DrCU2.pdf Paper]\]
+\[[papers/C12-ICCAD19-DrCU2-slides.pdf Slides]\]
 
 - \[C11\] Jingsong Chen, Jinwei Liu, *Gengjie Chen*, Dan Zheng and Evangeline F. Y. Young,
 [https://doi.org/10.1145/3316781.3317860 "MARCH: Maze Routing Under a Concurrent and Hierarchical Scheme for Buses"],
