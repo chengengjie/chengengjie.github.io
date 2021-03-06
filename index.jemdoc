@@ -58,7 +58,7 @@ My research interests include electronic design automation (EDA), combinatorial 
 === Journal Papers
 
 - \[J4\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F. Y. Young and Bei Yu, 
-"Pin-Accessible Legalisation for Mixed-Cell-Height Circuits",
+[https://doi.org/10.1109/TCAD.2021.3053223 "Pin-Accessible Legalisation for Mixed-Cell-Height Circuits"],
 accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 - \[J3\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li and Evangeline F. Y. Young,
@@ -79,13 +79,13 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 === Conference Papers
 
 - \[C14\] Wei Li, Yuxiao Qu, *Gengjie Chen*, Yuzhe Ma and Bei Yu,
-"TreeNet: Deep Point Cloud Embedding for Routing Tree Construction",
+[https://doi.org/10.1145/3394885.3431566 "TreeNet: Deep Point Cloud Embedding for Routing Tree Construction"],
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jan 18-21, 2021.
 (*{{<font color="red">Best Paper Award</font>}}*)
 \[[papers/C14-ASPDAC21-TreeNet.pdf Paper]\]
 
 - \[C13\] Benzheng Li, Qi Du, Dingcheng Liu, Jingchong Zhang, *Gengjie Chen* and Hailong You,
-"Placement for Wafer-Scale Deep Learning Accelerator",
+[https://doi.org/10.1145/3394885.3431563 "Placement for Wafer-Scale Deep Learning Accelerator"],
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jan 18-21, 2021.
 \[[papers/C13-ASPDAC21-GigaPlacer.pdf Paper]\]
 
