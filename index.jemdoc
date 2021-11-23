@@ -87,6 +87,15 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 
 === Conference Papers
 
+- \[C16\] Jinwei Liu, *Gengjie Chen* and Evangeline F. Y. Young,
+"REST: Constructing Rectilinear Steiner Minimum Tree via Reinforcement Learning",
+ACM/IEEE Design Automation Conference (*DAC*), Dec 5-9, 2021.
+
+- \[C15\] Tingyuan Liang, *Gengjie Chen*, Jieru Zhao, Sharad Sinha and Wei Zhang,
+"AMF-Placer: High-Performance Analytical Mixed-size Placer for FPGA",
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov 1-4, 2021.
+\[[papers/C15-ICCAD21-AMF-Placer.pdf Paper]\]
+
 - \[C14\] Wei Li, Yuxiao Qu, *Gengjie Chen*, Yuzhe Ma and Bei Yu,
 [https://doi.org/10.1145/3394885.3431566 "TreeNet: Deep Point Cloud Embedding for Routing Tree Construction"],
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jan 18-21, 2021.
@@ -189,6 +198,7 @@ Ph.D. Thesis, 2019.
 
 == Tools
 
+- [https://github.com/zslwyuan/AMF-Placer AMP-Placer] \[C15\]
 - [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C12\]\[C8\] (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
 - [https://github.com/chengengjie/salt SALT] \[J2\]\[C5\]
 - [https://github.com/cuhk-eda/ripple-fpga RippleFPGA] \[J1\]\[C4\]\[C2\]
