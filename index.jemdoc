@@ -68,7 +68,8 @@ My research interests include electronic design automation (EDA), combinatorial 
 
 - \[J4\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/TCAD.2021.3053223 "Pin-Accessible Legalization for Mixed-Cell-Height Circuits"],
-accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol 41, no. 1, pp. 143-154.
+\[[papers/J4-TCAD22-RippleLG.pdf Paper]\]
 
 - \[J3\] *Gengjie Chen*, Chak-Wa Pui, Haocheng Li and Evangeline F. Y. Young,
 [https://doi.org/10.1109/TCAD.2019.2927542 "Dr. CU: Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search"],
@@ -87,13 +88,17 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 
 === Conference Papers
 
+- \[C17\] Zhongdong Qi, Jingchong Zhang, *Gengjie Chen*, Hailong You,
+[https://doi.org/10.1145/3526241.3530361 "Effective and Efficient Detailed Routing with Adaptive Rip-up Scheme and Pin Access Refinement"],
+ACM Great Lakes Symposium on VLSI (GLSVLSI), Irvine, CA, USA, June 6-8, 2022.
+
 - \[C16\] Jinwei Liu, *Gengjie Chen* and Evangeline F. Y. Young,
 [https://doi.org/10.1109/DAC18074.2021.9586209 "REST: Constructing Rectilinear Steiner Minimum Tree via Reinforcement Learning"],
-ACM/IEEE Design Automation Conference (*DAC*), Dec 5-9, 2021.
+ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, Dec 5-9, 2021.
 
 - \[C15\] Tingyuan Liang, *Gengjie Chen*, Jieru Zhao, Sharad Sinha and Wei Zhang,
 [https://doi.org/10.1109/ICCAD51958.2021.9643574 "AMF-Placer: High-Performance Analytical Mixed-size Placer for FPGA"],
-IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov 1-4, 2021.
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Germany, Nov 1-4, 2021.
 \[[papers/C15-ICCAD21-AMF-Placer.pdf Paper]\]
 
 - \[C14\] Wei Li, Yuxiao Qu, *Gengjie Chen*, Yuzhe Ma and Bei Yu,
