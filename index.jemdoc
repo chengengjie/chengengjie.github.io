@@ -91,10 +91,12 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 - \[C17\] Zhongdong Qi, Jingchong Zhang, *Gengjie Chen*, Hailong You,
 [https://doi.org/10.1145/3526241.3530361 "Effective and Efficient Detailed Routing with Adaptive Rip-up Scheme and Pin Access Refinement"],
 ACM Great Lakes Symposium on VLSI (*GLSVLSI*), Irvine, CA, USA, June 6-8, 2022.
+\[[papers/C17-GLSVLSI21-DR.pdf Paper]\]
 
 - \[C16\] Jinwei Liu, *Gengjie Chen* and Evangeline F. Y. Young,
 [https://doi.org/10.1109/DAC18074.2021.9586209 "REST: Constructing Rectilinear Steiner Minimum Tree via Reinforcement Learning"],
 ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, USA, Dec 5-9, 2021.
+\[[papers/C16-DAC21-REST.pdf Paper]\]
 
 - \[C15\] Tingyuan Liang, *Gengjie Chen*, Jieru Zhao, Sharad Sinha and Wei Zhang,
 [https://doi.org/10.1109/ICCAD51958.2021.9643574 "AMF-Placer: High-Performance Analytical Mixed-size Placer for FPGA"],
@@ -203,6 +205,7 @@ Ph.D. Thesis, 2019.
 
 == Tools
 
+- [https://github.com/cuhk-eda/REST REST] \[C16\]
 - [https://github.com/zslwyuan/AMF-Placer AMP-Placer] \[C15\]
 - [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C12\]\[C8\] (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
 - [https://github.com/chengengjie/salt SALT] \[J2\]\[C5\]
