@@ -66,6 +66,10 @@ My research interests include electronic design automation (EDA), combinatorial 
 
 === Journal Papers
 
+- \[J5\] Tingyuan Liang, *Gengjie Chen*, Jieru Zhao, Sharad Sinha and Wei Zhang, 
+[https://doi.org/10.1109/TCAD.2024.3373357 "AMF-Placer 2.0: Open Source Timing-Driven Analytical Mixed-Size Placer for Large-Scale Heterogeneous FPGA"],
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
 - \[J4\] Haocheng Li, Wing-Kai Chow, *Gengjie Chen*, Evangeline F. Y. Young and Bei Yu, 
 [https://doi.org/10.1109/TCAD.2021.3053223 "Pin-Accessible Legalization for Mixed-Cell-Height Circuits"],
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol 41, no. 1, pp. 143-154, 2022.
@@ -206,7 +210,7 @@ Ph.D. Thesis, 2019.
 == Tools
 
 - [https://github.com/cuhk-eda/REST REST] \[C16\]
-- [https://github.com/zslwyuan/AMF-Placer AMP-Placer] \[C15\]
+- [https://github.com/zslwyuan/AMF-Placer AMP-Placer] \[J5\]\[C15\]
 - [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C12\]\[C8\] (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
 - [https://github.com/chengengjie/salt SALT] \[J2\]\[C5\]
 - [https://github.com/cuhk-eda/ripple-fpga RippleFPGA] \[J1\]\[C4\]\[C2\]
